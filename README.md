@@ -36,4 +36,4 @@ Javadocs are <a target="_blank" href="http://moagrius.github.io/AccordionView/co
 Demo
 =============
 
-A demo application will be available shortly.
+A demo application is available <a target="_blank" href="https://github.com/moagrius/AccordionView">here</a>.
